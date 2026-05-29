@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/static/css/main.89d71598.css",
+    "main.js": "/static/js/main.c5eaac7d.js",
+    "static/js/453.20bedd0f.chunk.js": "/static/js/453.20bedd0f.chunk.js",
+    "static/media/monica.jpg": "/static/media/monica.6b5812867f2ca764dfb2.jpg",
+    "static/media/du.jpg": "/static/media/du.00324eb49e3e0c7c121e.jpg",
+    "static/media/nikitha.jpg": "/static/media/nikitha.c75c632a02098e3bbbe1.jpg",
+    "static/media/sonwabiso.jpg": "/static/media/sonwabiso.5272c5f6bd521e7eec9e.jpg",
+    "static/media/robyn.jpg": "/static/media/robyn.7abdfc5e0c65b73878ac.jpg",
+    "static/media/devlaunch_logo.png": "/static/media/devlaunch_logo.d94df5bd1ce52f6f84e4.png",
+    "static/media/capaciti_logo.jpg": "/static/media/capaciti_logo.c00ca58de210ced135c6.jpg",
+    "static/media/absa_logo.png": "/static/media/absa_logo.0ffd6e2c1c2ab6135190.png",
+    "static/media/instagram.png": "/static/media/instagram.ac32ec0a111aeba03298.png",
+    "static/media/email.png": "/static/media/email.9d4fb065e6679439a9a3.png",
+    "static/media/call.png": "/static/media/call.9ecec675bca004b7d120.png",
+    "static/media/facebook.png": "/static/media/facebook.bfd1cfff9f9521198b26.png",
+    "index.html": "/index.html",
+    "main.89d71598.css.map": "/static/css/main.89d71598.css.map",
+    "main.c5eaac7d.js.map": "/static/js/main.c5eaac7d.js.map",
+    "453.20bedd0f.chunk.js.map": "/static/js/453.20bedd0f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.89d71598.css",
+    "static/js/main.c5eaac7d.js"
+  ]
+}
